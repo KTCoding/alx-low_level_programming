@@ -1,15 +1,15 @@
 #include <stdio.h>
 
 /**
- *main - print lowercase a-z
+ *main - print uppercase A-Z
  *Return: Always 0 (success)
  */
 
 int main(void)
 {
-	char alpha = 'a';
+	char alpha = 'A';
 
-	while (alpha <= 'z')
+	while (alpha <= 'Z')
 	{
 		putchar(alpha);
 		alpha++;
