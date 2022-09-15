@@ -1,1 +1,1 @@
-Functions and nested while loops
+C - Fuctions, variables, nested loops
