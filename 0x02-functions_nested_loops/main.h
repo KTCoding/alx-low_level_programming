@@ -1,7 +1,6 @@
-#ifndef MAIN_H
-#define MAIN_H
+#ifndef main_h
+#define main_h
 
-void pirnt_alphabet(void)
-int main(void)
+void print_alphabet(void)
 
 #endif
