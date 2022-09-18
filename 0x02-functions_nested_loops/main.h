@@ -14,6 +14,8 @@ int print_sign(int n);
 
 int _abs(int);
 
+int print_last_digit(int);
+
 /**
  * print_alphabet_x10 - print lowercase alphabet ten times
  */
