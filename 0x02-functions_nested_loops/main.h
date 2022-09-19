@@ -16,6 +16,8 @@ int _abs(int);
 
 int print_last_digit(int);
 
+void jack_bauer(void);
+
 /**
  * print_alphabet_x10 - print lowercase alphabet ten times
  */
